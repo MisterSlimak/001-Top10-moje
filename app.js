@@ -1,5 +1,5 @@
 // Import dependencies
-const fs = require("fs");
+// const fs = require("fs");
 const XLSX = require("xlsx");
 
 // Read the file into memory
